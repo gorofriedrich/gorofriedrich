@@ -4,7 +4,7 @@
 <p align=center>Welcome, I'm Ignacio.</p>
 
 
-<h2 align=center> 🐻 About me </h2>
+<h2 align=center> 🐯 About me </h2>
 <p align=center> I'm 27 y/o, he/they, currently a Computer Science student based in <a href= "https://goo.gl/maps/QwuqfA3XHrSoq93w5" style="color: #ff0080;">Santiago de Chile</href>.
 
 <b>⭐ Main Hobbies</b>
