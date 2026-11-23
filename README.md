@@ -17,10 +17,15 @@
 
 <h3 align="center">🔭 Currently</h3>
 <p align="center">
-  🔨 Working on: <b>EDU SIMULATOR 2.0</b> major update<br>
-  🕹️ Playing: <a href="https://utau.link"><b>K-STAGE</b></a><br>
-  🌱 Learning: <b>Guitar & Rust</b><br>
-  💬 Talk to me about: <b>gamedev & J-rock music</b>
+  <a href="https://store.steampowered.com/app/4545170/EDU_SIMULATOR/?beta=1">
+    <img alt="Working on EDU SIMULATOR 2.0" src="https://img.shields.io/badge/🔨%20Working%20on-EDU%20SIMULATOR%202.0-333333?style=flat-square&labelColor=1B2838" />
+  </a>
+  <a href="https://utau.link">
+    <img alt="Playing K-STAGE" src="https://img.shields.io/badge/🕹️%20Playing-K--STAGE-333333?style=flat-square&labelColor=8A2BE2" />
+  </a>
+  <br>
+  <img alt="Learning Guitar and Rust" src="https://img.shields.io/badge/🌱%20Learning-Guitar%20%26%20Rust-333333?style=flat-square&labelColor=CE422B" />
+  <img alt="Talk to me about Gamedev and J-Rock" src="https://img.shields.io/badge/💬%20Talk%20to%20me%20about-Gamedev%20%26%20J--Rock-333333?style=flat-square&labelColor=478CBF" />
 </p>
 
 ---
@@ -38,7 +43,7 @@
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
   <img alt="C" src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/OpenJDK-F89820?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <br>
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
