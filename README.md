@@ -3,7 +3,7 @@
 
 <h2 align="center">🐯 About Me</h2>
 <p align="center">
-  I'm 27 y/o (he/they), a Computer Science student based in <a href="https://goo.gl/maps/QwuqfA3XHrSoq93w5">Santiago de Chile</a>.
+  I'm 27 y/o (he/they), a Computer Science Engineer based in <a href="https://goo.gl/maps/QwuqfA3XHrSoq93w5">Santiago de Chile</a>.
 </p>
 
 <!-- Optional: Update with your actual links -->
