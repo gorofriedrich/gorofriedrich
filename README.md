@@ -20,11 +20,13 @@
   <a href="https://store.steampowered.com/app/4545170/EDU_SIMULATOR/?beta=1">
     <img alt="Working on EDU SIMULATOR 2.0" src="https://img.shields.io/badge/🔨%20Working%20on-EDU%20SIMULATOR%202.0-333333?style=flat-square&labelColor=1B2838" />
   </a>
+  <br>
   <a href="https://utau.link">
     <img alt="Playing K-STAGE" src="https://img.shields.io/badge/🕹️%20Playing-K--STAGE-333333?style=flat-square&labelColor=8A2BE2" />
   </a>
   <br>
   <img alt="Learning Guitar and Rust" src="https://img.shields.io/badge/🌱%20Learning-Guitar%20%26%20Rust-333333?style=flat-square&labelColor=CE422B" />
+  <br>
   <img alt="Talk to me about Gamedev and J-Rock" src="https://img.shields.io/badge/💬%20Talk%20to%20me%20about-Gamedev%20%26%20J--Rock-333333?style=flat-square&labelColor=478CBF" />
 </p>
 
