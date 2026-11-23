@@ -34,7 +34,7 @@
 
 <h3 align="center">🎮 Gamedev</h3>
 <p align="center">
-  <img alt="Godot" src="https://img.shields.io/badge/Godot-Main%20Engine-478CBF?style=flat-square&logo=godotengine&logoColor=white&labelColor=222222" />
+  <img alt="Godot" src="https://img.shields.io/badge/Godot-Main-478CBF?style=flat-square&logo=godotengine&logoColor=white&labelColor=222222" />
   <img alt="GameMaker" src="https://img.shields.io/badge/GameMaker-222222?style=flat-square&logo=gamemaker&logoColor=white" />
   <img alt="Unity" src="https://img.shields.io/badge/Unity-In%20Progress-333333?style=flat-square&logo=unity&logoColor=white&labelColor=222222" />
 </p>
